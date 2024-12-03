@@ -1,0 +1,8 @@
+PUT http://localhost:8080/api/4 
+Content-Type: application/json
+
+{
+    "name" : "Lydia",
+    "email" : "lydia@gmail.com",
+    "password" : "qwe123"
+}
